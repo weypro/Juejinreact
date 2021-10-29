@@ -1,0 +1,12 @@
+html {
+    background-color: #f4f5f5;
+    /* font-size: 12px; */
+}
+
+.card-icon {
+    width: 20px;
+    height: 20px;
+    /* vertical-align: -0.15em; */
+    fill: currentColor;
+    overflow: hidden;
+}
